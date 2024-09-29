@@ -6,7 +6,7 @@
       "FirstName" : "Nour",
       "Surname": "Hesham",
       "RegisterBirthDay" : "1",
-      "RegisterBirthMonth" : "January",
+      "RegisterBirthMonth" : "Jan",
       "RegisterBirthYear" : "2010",
       "Email": "nour.test1@gmail.com",
       "NewPassword": "ValidPassword1234!"
@@ -16,7 +16,7 @@
           "FirstName" : "Nour",
           "Surname": "Hesham",
           "RegisterBirthDay" : "1",
-          "RegisterBirthMonth" : "January",
+          "RegisterBirthMonth" : "Jan",
           "RegisterBirthYear" : "2010",
           "Email": "nour.test1@gmail.",
           "NewPassword": "ValidPassword1234!"
