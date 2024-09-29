@@ -24,6 +24,10 @@ public class RegisterFormPage extends MethodHandles {
     private final By passwordInput = By.cssSelector("#password_step_input");
 
     private final By signUpBtn = By.cssSelector("input[value='REGISTER']");
+    public String getAlertErrorLoginMessage()
+{
+    return getTextAlert();
+}
 
 
     public void insertFirstName(String firstName){
@@ -61,7 +65,7 @@ public class RegisterFormPage extends MethodHandles {
         sendKeys(passwordInput,3,password);
     }
     public MoreInfoPage clickOnSignUpBtn(){
-        click(signUpBtn , 3);
+        click(signUpBtn , 15);
         return new MoreInfoPage(driver);
     }
     public void registerFormActions(String firstName,String Surname,String day, String month,String year,String email,String password)
