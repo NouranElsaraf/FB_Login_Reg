@@ -1,0 +1,13 @@
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\base\BaseTests.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\DataModel.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\InvalidCredentials.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\InvalidEmail.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\InvalidPassword.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\Login.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\RegistrationForm.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\data\ValidCredentials.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\login\LoginTest.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\reader\ReadDataFromJson.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\registerForm\RegisterTests.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\utils\ScreenRecorderUtil.java
+C:\Users\User\IdeaProjects\FB_Login_Reg\src\test\java\utils\UtilsTests.java
